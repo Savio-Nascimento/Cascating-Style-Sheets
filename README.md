@@ -1,6 +1,6 @@
 ### CSS
 
-Pequenos códigos em C, para atividades da faculdade
+Aulas em Css, para consultas e estudos.
  
 ![](https://img.shields.io/badge/license-MIT-green)
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
