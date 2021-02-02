@@ -10,8 +10,8 @@ No modo externo um arquivo separado denominado aula01.css é criado com a extens
 
 ``` Html
     <head>
-
     <!--Tag utilizada para linkar o css-->
+   
     <link rel="stylesheet" href="aula01.css">
     
     </head>
@@ -26,6 +26,7 @@ No modo incorporado o código CSS é criado dentro do próprio HTML, a tag `<sty
 ``` Html
     <head>
     <!--Utilizando os seletores, propriedades e valores-->
+    
     <style>
         body{
             background-color: #7affa8;
@@ -46,11 +47,14 @@ No modo inline o código css é atribuido na mesma linha de uma tag html, e só 
 
 ``` Html
     <!--Usando a tag style na mesma tag onde se deseja aplicar o CSS-->
+    
     <body style="background-color: gray;">
+    
     <h1 style="color: #fff1cb;">
+    
     <p style="color: #0d7cff; font-size: 16px;">
         Nunca esqueça de sempre colocar o ; em css.
-    <p/>
+    </p>
     </body>
 
 ```
