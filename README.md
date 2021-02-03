@@ -46,5 +46,5 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 
 [⬆️Voltar ao topo](#css) <br>
 
-![⬅️Voltar](#https://github.com/Savio-Nascimento/Cascating-Style-Sheets)
+[⬅️Voltar](https://github.com/Savio-Nascimento/Cascating-Style-Sheets)
 
