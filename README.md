@@ -1,7 +1,7 @@
 ### CSS <a id="css"></a>
 
 Aulas em Css, para consultas e estudos.
- 
+
 ![](https://img.shields.io/badge/license-MIT-green)
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
 ![GitHub forks](https://img.shields.io/github/forks/Savio-Nascimento/Cascating-Style-Sheets?style=flat) 
@@ -12,7 +12,7 @@ Aulas em Css, para consultas e estudos.
 ---
 
 <div align="center">
- 
+
  <img src="https://github.com/Savio-Nascimento/Projeto-Site/blob/main/imagens/1_IeNwVwWspGw3aL4YXEsf0A.png?raw=true" width=550>
 
 </div>
@@ -31,8 +31,6 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 
 ```
 
----
-
 <div align="center">
   
 ### 🚧Projeto em fase de Construção...⏳
@@ -40,6 +38,7 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 </div>
 
 ---
+
 ### ℹ️ Informações do projeto
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=Savio-Nascimento.Cascating-Style-Sheets)![downloads](https://img.shields.io/github/downloads/Savio-Nascimento/Cascating-Style-Sheets/total)![last-commit](https://img.shields.io/github/last-commit/Savio-Nascimento/Cascating-Style-Sheets) ![repo-size](https://img.shields.io/github/repo-size/Savio-Nascimento/Cascating-Style-Sheets?&color=lightgrey) 
@@ -47,4 +46,3 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 [⬆️Voltar ao topo](#css) <br>
 
 [⬅️Voltar](https://github.com/Savio-Nascimento/Cascating-Style-Sheets)
-

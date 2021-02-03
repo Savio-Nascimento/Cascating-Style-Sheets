@@ -1,6 +1,6 @@
 # Como contribuir
 
-Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, abra uma [issue]((https://github.com/Savio-Nascimento/CSS/issues/new).).
+Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, abra uma [issue](https://github.com/Savio-Nascimento/Cascating-Style-Sheets/issues/new).
 
 ## Alternativa 1
 

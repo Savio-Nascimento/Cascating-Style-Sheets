@@ -1,0 +1,10 @@
+/*Exemplo de prioridade, Mudando a cor de fundo*/
+body{
+    background-color:grey;
+}
+
+/*Mudando a cor e os tamanhos dos parágrafos*/
+p{
+    color:indigo;
+    font-size: 20px;
+}

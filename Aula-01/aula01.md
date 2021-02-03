@@ -59,6 +59,17 @@ No modo inline o código css é atribuido na mesma linha de uma tag html, e só 
 
 ```
 
+---
+
+### Dicas/Comentários
+
+> No modo externo a formatação css afeta todas os seletores que você utiliza.
+> O css incorporado tem prioridade sobre o externo.
+> O css inline tem prioridade sobre o incorporado.
+> **Inline > Incorporado > Externo.**
+
+---
+
 ### Explicação dos atributos do link
 
 **rel** – Esse atributo define o relacionamento entre o arquivo em que o comando está escrito e o arquivo que é definido no caminho do href. Geralmente será apenas um stylesheet se conectamos um arquivo CSS (stylesheet).
@@ -67,3 +78,17 @@ No modo inline o código css é atribuido na mesma linha de uma tag html, e só 
 
 **href** – O atributo Href especifica a localização do arquivo que você precisa criar um link. Como você está tentando linkar um arquivo CSS, o caminho deve ser um subdiretório do CSS. Se o arquivo estiver no mesmo diretório, então você precisa inserir somente o nome do arquivo, caso não esteja você deve digitar o caminho para o diretório onde está o arquivo.
 **Exemplo: C:\Usário\Sites\estilo.css**
+
+---
+
+<div align="center">
+
+### ⚠️Atenção⚠️
+
+#### Acesse o html e o css dessa aula para ver de forma prática o que você estudou 😁.
+
+</div>
+
+---
+
+### Autor
