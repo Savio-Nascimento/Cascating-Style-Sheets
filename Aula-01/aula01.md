@@ -1,4 +1,4 @@
-# Inserindo CSS no HTML
+# Inserindo CSS no HTML <a id="css"></a>
 
 ## Há três formas de adicionar o CSS
 
@@ -91,4 +91,12 @@ No modo inline o código css é atribuido na mesma linha de uma tag html, e só 
 
 ---
 
-### Autor
+### 👤 Author
+
+[![Github Badge](https://img.shields.io/badge/SavioNascimento-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Savio-Nascimento)](https://github.com/Savio-Nascimento)
+
+---
+
+[⬆️ Topo](#css) <br>
+
+[🏠 Home](https://github.com/Savio-Nascimento/Cascating-Style-Sheets)
