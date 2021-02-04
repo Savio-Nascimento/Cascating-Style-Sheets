@@ -63,10 +63,10 @@ No modo inline o código css é atribuido na mesma linha de uma tag html, e só 
 
 ### Dicas/Comentários
 
-> No modo externo a formatação css afeta todas os seletores que você utiliza.
-> O css incorporado tem prioridade sobre o externo.
-> O css inline tem prioridade sobre o incorporado.
-> **Inline > Incorporado > Externo.**
+> No modo externo a formatação css afeta todas os seletores que você utiliza. <br>
+> O css incorporado tem prioridade sobre o externo. <br>
+> O css inline tem prioridade sobre o incorporado. <br>
+> **Inline > Incorporado > Externo.** 
 
 ---
 
