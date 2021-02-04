@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/license-MIT-green)
+![](https://img.shields.io/badge/languege-Portuguese-yellow)
+
 # Como contribuir
 
 Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, abra uma [issue](https://github.com/Savio-Nascimento/Cascating-Style-Sheets/issues/new).
@@ -22,3 +25,5 @@ Para contribuir com esse projeto siga estas etapas:
 Em caso de duvida, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 -----------------------------------------
+
+[🏠 Home](https://github.com/Savio-Nascimento/Cascating-Style-Sheets)

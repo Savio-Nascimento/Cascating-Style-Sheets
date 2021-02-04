@@ -1,4 +1,4 @@
-# Inserindo CSS no HTML
+# Inserindo CSS no HTML <a id="css"></a>
 
 ## Há três formas de adicionar o CSS
 
@@ -63,10 +63,10 @@ No modo inline o código css é atribuido na mesma linha de uma tag html, e só 
 
 ### Dicas/Comentários
 
-> No modo externo a formatação css afeta todas os seletores que você utiliza.
-> O css incorporado tem prioridade sobre o externo.
-> O css inline tem prioridade sobre o incorporado.
-> **Inline > Incorporado > Externo.**
+> No modo externo a formatação css afeta todas os seletores que você utiliza. <br>
+> O css incorporado tem prioridade sobre o externo. <br>
+> O css inline tem prioridade sobre o incorporado. <br>
+> **Inline > Incorporado > Externo.** 
 
 ---
 
@@ -91,4 +91,12 @@ No modo inline o código css é atribuido na mesma linha de uma tag html, e só 
 
 ---
 
-### Autor
+### 👤 Author
+
+[![Github Badge](https://img.shields.io/badge/SavioNascimento-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Savio-Nascimento)](https://github.com/Savio-Nascimento)
+
+---
+
+[⬆️ Topo](#css) <br>
+
+[🏠 Home](https://github.com/Savio-Nascimento/Cascating-Style-Sheets)
