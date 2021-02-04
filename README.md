@@ -27,10 +27,10 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 ---
 
 ### 📍 Menu de Aulas 
-``` 
-    Aula 01 - Inserindo CSS
 
-```
+* [Aula 01 - Inserindo CSS](https://github.com/Savio-Nascimento/Cascating-Style-Sheets/tree/main/Aula-01)
+
+
 
 ---
 
