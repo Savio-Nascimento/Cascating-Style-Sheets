@@ -1,13 +1,14 @@
-### CSS <a id="css"></a>
+<h1 align="center">🌐 CSS 🌊<a id="css"></a> </h1>
 
-Aulas em Css, para consultas e estudos.
+> Aulas em Css, para consultas e estudos.
 
 ![](https://img.shields.io/badge/license-MIT-green)
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
 ![GitHub forks](https://img.shields.io/github/forks/Savio-Nascimento/Cascating-Style-Sheets?style=flat) 
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Savio-Nascimento/Cascating-Style-Sheets?style=flat) 
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Savio-Nascimento/Cascating-Style-Sheets?style=flat)
-[![GitHub Repo stars](https://img.shields.io/github/stars/Savio-Nascimento/Cascating-Style-Sheets?style=social)](https://github.com/Savio-Nascimento/Cascating-Style-Sheets/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Savio-Nascimento/Cascating-Style-Sheets?style=social)](https://github.com/Savio-Nascimento/Cascating-Style-Sheets/stargazers) <br>
+[🏠 Home](https://github.com/Savio-Nascimento/Cascating-Style-Sheets)
 
 ---
 
@@ -31,6 +32,8 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 
 ```
 
+---
+
 <div align="center">
   
 ### 🚧Projeto em fase de Construção...⏳
@@ -38,10 +41,6 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 </div>
 
 ---
-### 📝 License
-
-Copyright © 2021 [Savio Nascimento](https://github.com/Savio-Nascimento).<br/>
-
 
 ### ℹ️ Informações do projeto
 
@@ -49,13 +48,18 @@ Copyright © 2021 [Savio Nascimento](https://github.com/Savio-Nascimento).<br/>
 
 ---
 
+### 📝 License
+
+Copyright © 2021 [Savio Nascimento](https://github.com/Savio-Nascimento).<br/>
+
+---
+
 ### 👤 Author
 
 **Savio Nascimento**
 
-* Github: [@maykbrito](https://github.com/maykbrito)
-* LinkedIn: [@maykbrito](https://linkedin.com/in/maykbrito)
+* [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) 
+* [![Instagram Badge](https://img.shields.io/badge/-SavioNascimento-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://https://www.instagram.com/savio_nascimento_/)](https://www.instagram.com/savio_nascimento_/)
+* [![Github Badge](https://img.shields.io/badge/SavioNascimento-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Savio-Nascimento)](https://github.com/Savio-Nascimento)
 
 [⬆️ Topo](#css) <br>
-
-[🏠 Home](https://github.com/Savio-Nascimento/Cascating-Style-Sheets)
