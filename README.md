@@ -38,11 +38,24 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 </div>
 
 ---
+### 📝 License
+
+Copyright © 2021 [Savio Nascimento](https://github.com/Savio-Nascimento).<br/>
+
 
 ### ℹ️ Informações do projeto
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=Savio-Nascimento.Cascating-Style-Sheets)![downloads](https://img.shields.io/github/downloads/Savio-Nascimento/Cascating-Style-Sheets/total)![last-commit](https://img.shields.io/github/last-commit/Savio-Nascimento/Cascating-Style-Sheets) ![repo-size](https://img.shields.io/github/repo-size/Savio-Nascimento/Cascating-Style-Sheets?&color=lightgrey) 
 
-[⬆️Voltar ao topo](#css) <br>
+---
 
-[⬅️Voltar](https://github.com/Savio-Nascimento/Cascating-Style-Sheets)
+### 👤 Author
+
+**Savio Nascimento**
+
+* Github: [@maykbrito](https://github.com/maykbrito)
+* LinkedIn: [@maykbrito](https://linkedin.com/in/maykbrito)
+
+[⬆️ Topo](#css) <br>
+
+[🏠 Home](https://github.com/Savio-Nascimento/Cascating-Style-Sheets)
