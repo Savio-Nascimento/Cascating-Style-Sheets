@@ -1,10 +1,12 @@
-/*Exemplo de prioridade, Mudando a cor de fundo*/
+/*Esse é o CSS Externo*/
+
+/*Exemplo de prioridade, Mudando a cor de fundo, ultimo nível de prioridade*/
 body{
     background-color:grey;
 }
 
-/*Mudando a cor e os tamanhos dos parágrafos*/
+/*Mudando a cor e os tamanhos dos parágrafos <p>*/
 p{
-    color:indigo;
-    font-size: 20px;
+    color:rgb(255, 115, 1);
+    font-size: 25px;
 }
