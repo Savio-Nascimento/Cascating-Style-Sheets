@@ -77,7 +77,7 @@ No modo inline o código css é atribuido na mesma linha de uma tag html, e só 
 **type** – Esse atributo define o conteúdo do arquivo para qual está linkado. O valor do atributo deve ser um MIME como text/html, text/css e similares.
 
 **href** – O atributo Href especifica a localização do arquivo que você precisa criar um link. Como você está tentando linkar um arquivo CSS, o caminho deve ser um subdiretório do CSS. Se o arquivo estiver no mesmo diretório, então você precisa inserir somente o nome do arquivo, caso não esteja você deve digitar o caminho para o diretório onde está o arquivo.
-**Exemplo: C:\Usário\Sites\estilo.css**
+**Exemplo: C:\Usário\Sites\estilo.css.**
 
 ---
 
@@ -85,7 +85,9 @@ No modo inline o código css é atribuido na mesma linha de uma tag html, e só 
 
 ### ⚠️Atenção⚠️
 
-#### Acesse o html e o css dessa aula para ver de forma prática o que você estudou 😁.
+#### Acesse o html e o css dessa aula para ver de forma prática o que você estudou 😁 <br>
+
+#### Baixe os códigos da aula e veja você mesmo👻
 
 </div>
 
