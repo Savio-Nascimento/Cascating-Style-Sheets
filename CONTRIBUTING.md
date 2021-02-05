@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/license-MIT-purple)
-![](https://img.shields.io/badge/languege-Portuguese-orange)
+![](https://img.shields.io/badge/language-Portuguese-black)
 
 # Como contribuir
 
