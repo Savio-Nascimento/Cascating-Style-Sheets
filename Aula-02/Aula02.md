@@ -4,6 +4,8 @@
 
 ---
 
+<div align="center">
+    
 ### Sintaxe básica
 
 ``` css
@@ -14,6 +16,8 @@
 ```
 
 Para escrever o código CSS é necessário seguir a sintaxe, que define a forma com que o estilo será aplicado aos elementos html.
+
+</div>
 
 #### Seletor
 
