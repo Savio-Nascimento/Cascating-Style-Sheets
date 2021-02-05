@@ -1,7 +1,7 @@
 <h1 align="center">🌐 CSS 🌊<a id="css"></a> </h1>
 
-![](https://img.shields.io/badge/license-MIT-green)
-![](https://img.shields.io/badge/languege-Portuguese-yellow)
+![](https://img.shields.io/badge/license-MIT-purple)
+![](https://img.shields.io/badge/language-Portuguese-black)
 ![GitHub forks](https://img.shields.io/github/forks/Savio-Nascimento/Cascating-Style-Sheets?style=flat) 
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Savio-Nascimento/Cascating-Style-Sheets?style=flat) 
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Savio-Nascimento/Cascating-Style-Sheets?style=flat)
@@ -30,7 +30,7 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 ### 📍 Menu de Aulas 
 
 * [Aula 01 - Inserindo CSS](https://github.com/Savio-Nascimento/Cascating-Style-Sheets/tree/main/Aula-01)
-
+* [Aula 02 - Seletores CSS](https://github.com/Savio-Nascimento/Cascating-Style-Sheets/tree/main/Aula-02)
 
 
 ---
@@ -40,6 +40,12 @@ O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresen
 ### 🚧Projeto em fase de Construção...⏳
 
 </div>
+
+---
+
+## 📫 Contribuindo para o projeto
+
+Quer fazer parte desse projeto? Clique [AQUI](https://github.com/Savio-Nascimento/Cascating-Style-Sheets/blob/main/CONTRIBUTING.md) e leia como contribuir.
 
 ---
 
