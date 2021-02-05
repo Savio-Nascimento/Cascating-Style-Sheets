@@ -24,6 +24,4 @@ Para contribuir com esse projeto siga estas etapas:
 
 Em caso de duvida, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-<br>
-
 [🏠 Home](https://github.com/Savio-Nascimento/Cascating-Style-Sheets)
