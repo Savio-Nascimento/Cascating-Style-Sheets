@@ -1,0 +1,25 @@
+/*Exemplo de seletores*/
+
+p{
+    color:red;
+    font-size: 25pt;
+}
+
+/*Id de p1, muda a cor do texto, e o tamanho*/
+#p1{
+    color:blue;
+    font-size: 18pt;
+}
+
+/*Id de p2, muda a cor do texto, e o tamanho*/
+#p2{
+    color:green;
+    font-size: 18pt;
+}
+
+/*Criando uma classe, muda a cor do texto, o tamanho, e tira o negrito*/
+.class01{
+    color:blueviolet;
+    font-size: 30px;
+    font-weight: lighter;
+}
