@@ -1,9 +1,14 @@
 <h1 align="center">🌐 CSS 🌊<a id="css"></a> </h1>
 
+<div algn="center">
+
 ![](https://img.shields.io/badge/license-MIT-darkcyan)
 ![Html-5.0](https://img.shields.io/badge/html-5.0-F16529?logo=html5&style=flat)
 ![JavaScript](https://img.shields.io/badge/Javascript-ecma2018-yellow?logo=javascript&style=flat) 
 ![CSS-3.0](https://img.shields.io/badge/css-3.0-2965f1?logo=CSS3&style=flat)
+
+</div>
+
 ![GitHub forks](https://img.shields.io/github/forks/Savio-Nascimento/Cascating-Style-Sheets?style=flat) 
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Savio-Nascimento/Cascating-Style-Sheets?style=flat) 
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Savio-Nascimento/Cascating-Style-Sheets?style=flat)
