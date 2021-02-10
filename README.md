@@ -54,15 +54,6 @@ Quer fazer parte desse projeto? Clique [AQUI](https://github.com/Savio-Nasciment
 
 ---
 
-### ℹ️ Informações do projeto
-
-![visitor](https://visitor-badge.glitch.me/badge?page_id=Savio-Nascimento.Cascating-Style-Sheets)
-![downloads](https://img.shields.io/github/downloads/Savio-Nascimento/Cascating-Style-Sheets/total)
-![last-commit](https://img.shields.io/github/last-commit/Savio-Nascimento/Cascating-Style-Sheets) 
-![repo-size](https://img.shields.io/github/repo-size/Savio-Nascimento/Cascating-Style-Sheets?&color=lightgrey) 
-
----
-
 ### 📝 License
 
 Copyright © 2021 [Savio Nascimento](https://github.com/Savio-Nascimento).<br/>
@@ -76,5 +67,16 @@ Copyright © 2021 [Savio Nascimento](https://github.com/Savio-Nascimento).<br/>
 * [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) 
 * [![Instagram Badge](https://img.shields.io/badge/-SavioNascimento-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://https://www.instagram.com/savio_nascimento_/)](https://www.instagram.com/savio_nascimento_/)
 * [![Github Badge](https://img.shields.io/badge/SavioNascimento-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Savio-Nascimento)](https://github.com/Savio-Nascimento)
+
+---
+
+### ℹ️ Informações do projeto
+
+![visitor](https://visitor-badge.glitch.me/badge?page_id=Savio-Nascimento.Cascating-Style-Sheets)
+![downloads](https://img.shields.io/github/downloads/Savio-Nascimento/Cascating-Style-Sheets/total)
+![last-commit](https://img.shields.io/github/last-commit/Savio-Nascimento/Cascating-Style-Sheets) 
+![repo-size](https://img.shields.io/github/repo-size/Savio-Nascimento/Cascating-Style-Sheets?&color=lightgrey) 
+
+---
 
 [⬆️ Topo](#css) <br>
