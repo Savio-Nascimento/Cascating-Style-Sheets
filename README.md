@@ -6,8 +6,7 @@
 ![CSS-3.0](https://img.shields.io/badge/Css-3.0-2965f1?logo=CSS3&style=flat)
 
 </div>
-
-![GitHub forks](https://img.shields.io/github/forks/savionascimentodev/Cascating-Style-Sheets?style=flat) 
+ 
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/savionascimentodev/Cascating-Style-Sheets?style=flat) 
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/savionascimentodev/Cascating-Style-Sheets?style=flat)
 [![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/Cascating-Style-Sheets?style=social)](https://github.com/savionascimentodev/Cascating-Style-Sheets/stargazers) <br>
