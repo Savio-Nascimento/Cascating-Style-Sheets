@@ -9,7 +9,9 @@
  
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/savionascimentodev/Cascating-Style-Sheets?style=flat) 
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/savionascimentodev/Cascating-Style-Sheets?style=flat)
-[![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/Cascating-Style-Sheets?style=social)](https://github.com/savionascimentodev/Cascating-Style-Sheets/stargazers) <br>
+[![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/Cascating-Style-Sheets?style=social)](https://github.com/savionascimentodev/Cascating-Style-Sheets/stargazers)
+
+<br>
 
 > Aulas em Css, para consultas e estudos.
 
@@ -19,7 +21,7 @@
 
 <div align="center">
 
- <img src="https://github.com/savionascimentodev/Projeto-Site/blob/main/imagens/1_IeNwVwWspGw3aL4YXEsf0A.png?raw=true" width=550>
+ <img src="https://A.png?raw=true" width=550>
 
 </div>
 
